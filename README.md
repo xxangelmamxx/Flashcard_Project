@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<iframe src="https://giphy.com/embed/KUZB9Tknn57yThawZ2" width="480" height="312" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KUZB9Tknn57yThawZ2">via GIPHY</a></p>
+![image](https://github.com/user-attachments/assets/e22e7453-fcfb-49cb-9f37-78322e11e631)
 
 GIF created with GIPHY
 
